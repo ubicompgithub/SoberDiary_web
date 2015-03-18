@@ -1,0 +1,6 @@
+<?php
+	$DB_HOST = "localhost";
+	$DB = "soberdiary_db";
+	$SQL_ACC = "SQL_account";
+	$SQL_PWD = "SQL_password";
+?>
